@@ -2,8 +2,8 @@ title: "Ruru's Little Blog"
 author: "Rururezu"
 description: "A place where I vent"
 more: "read more »"
-url: "https://rururezu.github.io"
-baseurl: "/"
+url: "https://rururezu.github.io/"
+baseurl: ""
 paginate: 2
 permalink: pretty
 excerpt_separator: "\n\n\n" # two blank lines
